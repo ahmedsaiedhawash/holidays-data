@@ -1,36 +1,118 @@
 {
-  "fixed": {
-    "01-07": { "title": "عيد الميلاد", "hour": 12, "minute": 0 },
-    "01-25": { "title": "ثورة 25 يناير", "hour": 12, "minute": 0 },
-    "04-25": { "title": "عيد تحرير سيناء", "hour": 12, "minute": 0 },
-    "05-01": { "title": "عيد العمال", "hour": 12, "minute": 0 },
-    "07-23": { "title": "عيد الثورة", "hour": 12, "minute": 0 },
-    "08-31": { "title": "test0", "hour": 1, "minute": 0 },
-    "10-06": { "title": "نصر اكتوبر المجيد", "hour": 12, "minute": 0 }
-  },
-  "islamic": [
-    { "hMonth": 9, "hDay": 30, "title": "وقفة عيد الفطر", "hour": 12, "minute": 0 },
-    { "hMonth": 10, "hDay": 1, "title": "اول ايام عيد الفطر", "hour": 12, "minute": 0 },
-    { "hMonth": 10, "hDay": 2, "title": "ثان ايام عيد الفطر", "hour": 12, "minute": 0 },
-    { "hMonth": 10, "hDay": 3, "title": "ثالث ايام عيد الفطر", "hour": 12, "minute": 0 },
-    { "hMonth": 12, "hDay": 9, "title": "وقفة عيد الأضحى", "hour": 12, "minute": 0 },
-    { "hMonth": 12, "hDay": 10, "title": "اول ايام عيد الأضحى", "hour": 12, "minute": 0 },
-    { "hMonth": 12, "hDay": 11, "title": "ثان ايام عيد الأضحى", "hour": 12, "minute": 0 },
-    { "hMonth": 12, "hDay": 12, "title": "ثالث ايام عيد الأضحى", "hour": 12, "minute": 0 },
-    { "hMonth": 12, "hDay": 13, "title": "رابع ايام عيد الأضحى", "hour": 12, "minute": 0 },
-    { "hMonth": 1, "hDay": 1, "title": "رأس السنة الهجرية", "hour": 12, "minute": 0 },
-    { "hMonth": 3, "hDay": 12, "title": "المولد النبوي الشريف", "hour": 12, "minute": 0 }
-  ]
+    "fixed": {
+        "01-07": {
+            "title": "عيد الميلاد",
+            "hour": 12,
+            "minute": 0
+        },
+        "01-25": {
+            "title": "ثورة 25 يناير",
+            "hour": 12,
+            "minute": 0
+        },
+        "04-25": {
+            "title": "عيد تحرير سيناء",
+            "hour": 12,
+            "minute": 0
+        },
+        "05-01": {
+            "title": "عيد العمال",
+            "hour": 12,
+            "minute": 0
+        },
+        "07-23": {
+            "title": "عيد الثورة",
+            "hour": 12,
+            "minute": 0
+        },
+        "08-31": {
+            "title": "test0",
+            "hour": 1,
+            "minute": 0
+        },
+        "10-06": {
+            "title": "نصر اكتوبر المجيد",
+            "hour": 12,
+            "minute": 0
+        }
+    },
+    "islamic": [
+        {
+            "hMonth": 9,
+            "hDay": 30,
+            "title": "وقفة عيد الفطر",
+            "hour": 12,
+            "minute": 0
+        },
+        {
+            "hMonth": 10,
+            "hDay": 1,
+            "title": "اول ايام عيد الفطر",
+            "hour": 12,
+            "minute": 0
+        },
+        {
+            "hMonth": 10,
+            "hDay": 2,
+            "title": "ثان ايام عيد الفطر",
+            "hour": 12,
+            "minute": 0
+        },
+        {
+            "hMonth": 10,
+            "hDay": 3,
+            "title": "ثالث ايام عيد الفطر",
+            "hour": 12,
+            "minute": 0
+        },
+        {
+            "hMonth": 12,
+            "hDay": 9,
+            "title": "وقفة عيد الأضحى",
+            "hour": 12,
+            "minute": 0
+        },
+        {
+            "hMonth": 12,
+            "hDay": 10,
+            "title": "اول ايام عيد الأضحى",
+            "hour": 12,
+            "minute": 0
+        },
+        {
+            "hMonth": 12,
+            "hDay": 11,
+            "title": "ثان ايام عيد الأضحى",
+            "hour": 12,
+            "minute": 0
+        },
+        {
+            "hMonth": 12,
+            "hDay": 12,
+            "title": "ثالث ايام عيد الأضحى",
+            "hour": 12,
+            "minute": 0
+        },
+        {
+            "hMonth": 12,
+            "hDay": 13,
+            "title": "رابع ايام عيد الأضحى",
+            "hour": 12,
+            "minute": 0
+        },
+        {
+            "hMonth": 1,
+            "hDay": 1,
+            "title": "رأس السنة الهجرية",
+            "hour": 12,
+            "minute": 0
+        },
+        {
+            "hMonth": 3,
+            "hDay": 12,
+            "title": "المولد النبوي الشريف",
+            "hour": 12,
+            "minute": 0
+        }
+    ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
