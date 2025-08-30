@@ -1,5 +1,5 @@
 {
-    "events": [
+    "gregorianEvents": [
         {
             "month": 1,
             "day": 7,
@@ -48,7 +48,9 @@
             "hour": 12,
             "minute": 0,
             "title": "نصر اكتوبر المجيد"
-        },
+        }
+    ],
+    "hijriEvents": [
         {
             "hMonth": 9,
             "hDay": 30,
