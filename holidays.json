@@ -5,7 +5,7 @@
     "04-25": { "title": "عيد تحرير سيناء", "hour": 12, "minute": 0 },
     "05-01": { "title": "عيد العمال", "hour": 12, "minute": 0 },
     "07-23": { "title": "عيد الثورة", "hour": 12, "minute": 0 },
-    "08-30": { "title": "test", "hour": 17, "minute": 45 },
+    "08-30": { "title": "test", "hour": 17, "minute": 50 },
     "10-06": { "title": "نصر اكتوبر المجيد", "hour": 12, "minute": 0 }
   },
   "islamic": [
@@ -22,4 +22,5 @@
     { "hMonth": 3, "hDay": 12, "title": "المولد النبوي الشريف", "hour": 12, "minute": 0 }
   ]
 }
+
 
