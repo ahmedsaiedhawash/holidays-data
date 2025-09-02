@@ -38,9 +38,16 @@
         {
             "month": 9,
             "day": 2,
-            "hour": 20,
+            "hour": 22,
             "minute": 0,
             "title": "test"
+        },
+        {
+            "month": 9,
+            "day": 3,
+            "hour": 0,
+            "minute": 0,
+            "title": "test1"
         },
         {
             "month": 10,
@@ -130,6 +137,7 @@
         }
     ]
 }
+
 
 
 
